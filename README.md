@@ -8,7 +8,7 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 ## 🚀 Current Project
 
-<div align="center">
+<div align="left">
 
 [![JustDecide](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/Just-Decide)
 
