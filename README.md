@@ -24,9 +24,8 @@ An application that enables users to make informed decisions to tackle ethical i
 
 <div align="left">
 
-[![FundMap](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/FundMap)
+[![FundMap](https://img.shields.io/badge/FundMap-Mapping%20And%20Analysing%20Donations-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/FundMap)
 
-An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
 
 </div>
 
