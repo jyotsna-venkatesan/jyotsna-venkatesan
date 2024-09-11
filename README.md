@@ -8,14 +8,18 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 ## 🚀 Current Project
 
-I'm currently working on **JustDecide** - an application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
+<div align="center">
 
-## </> Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<br/>  
+[![JustDecide](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/yourusername/JustDecide)
+
+An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
+
+</div>
+
+### Key Features:
+- 🧠 AI-powered ethical analysis
+- 📚 Insights from renowned philosophers
+- 🤔 Interactive decision-making scenarios
 
 
 
