@@ -36,10 +36,22 @@ An application that enables users to make informed decisions to tackle ethical i
 
 ## ⭐ Other Projects
 
+- [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
+- 
 - [<code>🌍 FundMap</code>](#-FundMap)
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
-- [<code>🚦️ Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+- [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+ ## 🚦️ Multi thread Web Server
+
+[Go to the Repository](https://github.com/jyotsna-venkatesan/Multi-thread-Web-Server) - This project implements a basic HTTP server using python that can handle GET requests, serve static files, and manage persistent connections via HTTP keep-alive functionality.
+
+#### Key Features:
+- 🌐 Server Configuration and Multi-threading
+- 🤝 Handling Client Requests
+- 💬 Generating Responses
+- 📝 Managing Connections and Logging Activities
 
 ## 🌍 FundMap
 
