@@ -20,11 +20,20 @@ An application that enables users to make informed decisions to tackle ethical i
 - 🧠 AI-powered ethical analysis
 - 📚 Insights from renowned philosophers
 
-## Tech Stack:
-`Python` `Flask` `OpenAI API` `SQLite` `HTML/CSS/JavaScript`
 
-## </> Languages and Tools:
+## </> Tech Skills:
 
+#### Languages: 
+`Python` `Java` `C` `C++` `JavaScript` `HTML/CSS` `SQL` `R` `Dart` `Bash` `MIPS`
+
+#### Frameworks & Libraries: 
+`React` `Flutter` `Selenium` `Appium` `Playwright` `JUnit` `TestNG` `Node.js` `Express.js` `Bootstrap`
+
+#### Tools & Technologies:
+`Git` `Docker` `Linux` `Figma` `Blender` `SolidWorks`
+
+#### Concepts:
+`OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control`
 
 ---
 
