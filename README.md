@@ -16,11 +16,11 @@ An application that enables users to make informed decisions to tackle ethical i
 
 </div>
 
-### Key Features:
+#### Key Features:
 - 🧠 AI-powered ethical analysis
 - 📚 Insights from renowned philosophers
 
-### Tech Stack:
+## Tech Stack:
 `Python` `Flask` `OpenAI API` `SQLite` `HTML/CSS/JavaScript`
 
 ## </> Languages and Tools:
