@@ -2,7 +2,7 @@
 
 **`Aspiring Software Developer`**
 
-I'm currently a Year-3 Student at the Hong Kong Polytechnic University majoring in Computer Science 💻 with a minor in Business Economics 💰. From planning and designing to execution and debugging, I'm taking the digital world one step at a time. I believe code is one of the most powerful ways to solving real life problems and I enjoy identifying these and working on them in my free time. When I'm not working on these, I spend my time crocheting 🧶 and cooking 🍽️
+I'm currently a Year-3 student at the Hong Kong Polytechnic University, majoring in Computer Science 💻 with a minor in Business Economics 💰. From planning and designing to execution and debugging, I'm taking the digital world one step at a time. I believe code is one of the most powerful ways to solve real-life problems, and I enjoy identifying and working on these in my free time. When I'm not coding, I spend my time crocheting 🧶 and cooking 🍽️.
 
 Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
