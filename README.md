@@ -20,6 +20,16 @@ An application that enables users to make informed decisions to tackle ethical i
 - 🧠 AI-powered ethical analysis
 - 📚 Insights from renowned philosophers
 
+## ⭐ Other Projects
+
+<div align="left">
+
+[![FundMap](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/FundMap)
+
+An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
+
+</div>
+
 
 ## </> Tech Skills:
 
