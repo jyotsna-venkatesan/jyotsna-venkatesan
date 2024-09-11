@@ -37,7 +37,6 @@ An application that enables users to make informed decisions to tackle ethical i
 ## ⭐ Other Projects
 
 - [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
-- 
 - [<code>🌍 FundMap</code>](#-FundMap)
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
