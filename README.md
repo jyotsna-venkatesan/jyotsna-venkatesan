@@ -36,12 +36,24 @@ An application that enables users to make informed decisions to tackle ethical i
 
 ## ⭐ Other Projects
 
+- [<code>🌐 Portfolio Website</code>](#-Multi-thread-Web-Server)
 - [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
 - [<code>🌍 FundMap</code>](#-FundMap)
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
 
+ ## 🌐 Portfolio Website
+
+[Go to the Repository](https://github.com/jyotsna-venkatesan/my-portfolio) 
+[Check out my Portfolio](https://main--jyotsnav.netlify.app/)- This project is a personal portfolio website built using React, showcasing my skills, projects, and professional information.
+
+#### Key Features:
+- 💼 Project Showcase
+- 🔧 Skills Section
+- 📞 Contact Information
+- 🚀 Easy Deployment and Responsive Design
+ 
  ## 🚦️ Multi thread Web Server
 
 [Go to the Repository](https://github.com/jyotsna-venkatesan/Multi-thread-Web-Server) - This project implements a basic HTTP server using python that can handle GET requests, serve static files, and manage persistent connections via HTTP keep-alive functionality.
