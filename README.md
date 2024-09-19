@@ -36,12 +36,21 @@ An application that enables users to make informed decisions to tackle ethical i
 
 ## ⭐ Other Projects
 
-- [<code>🌐 Portfolio Website</code>](#-Multi-thread-Web-Server)
+- [<code>🎵 Music from Image Generator</code>](#-Music-from-Image-Generator)
+- [<code>🌐 Portfolio Website</code>](#-Portfolio-Website)
 - [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
 - [<code>🌍 FundMap</code>](#-FundMap)
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+ ## 🎵 Music from Image Generator
+
+[Go to the Repository](https://github.com/jyotsna-venkatesan/music-generation-from-image)- This project is a personal portfolio website built using React, showcasing my skills, projects, and professional information.
+
+#### Key Features:
+- 🔎 Image Pixel Analysis
+- 🎹 Music Generation with MIDIUtil
 
  ## 🌐 Portfolio Website
 
