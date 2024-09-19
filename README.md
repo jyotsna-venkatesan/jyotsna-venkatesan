@@ -46,7 +46,7 @@ An application that enables users to make informed decisions to tackle ethical i
 
  ## 🎵 Music from Image Generator
 
-[Go to the Repository](https://github.com/jyotsna-venkatesan/music-generation-from-image)- This project is a personal portfolio website built using React, showcasing my skills, projects, and professional information.
+[Go to the Repository](https://github.com/jyotsna-venkatesan/music-generation-from-image)- A music generator based on pixel analysis and musical research. Written in python.
 
 #### Key Features:
 - 🔎 Image Pixel Analysis
