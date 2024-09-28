@@ -12,13 +12,13 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 `Python` `Java` `C` `C++` `JavaScript` `HTML/CSS` `SQL` `R` `Dart` `Bash` `MIPS`
 
 #### Frameworks & Libraries: 
-`React` `Flutter` `Selenium` `Appium` `Playwright` `JUnit` `TestNG` `Node.js` `Express.js` `Bootstrap`
+`React` `Flutter` `Selenium` `Appium` `Playwright` `JUnit` `TestNG` `Node.js` `Express.js` `Bootstrap` `FastAPI` `SQLAlchemy` `Pydantic` 
 
 #### Tools & Technologies:
-`Git` `Docker` `Linux` `Figma` `Blender` `SolidWorks`
+`Git` `Docker` `Linux` `Figma` `Blender` `SolidWorks` `Uvicorn`
 
 #### Concepts:
-`OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control`
+`OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control` `RESTful API Design` `Authentication & Security`
 
 ## 🚀 Current Project
 
