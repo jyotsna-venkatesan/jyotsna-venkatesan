@@ -36,6 +36,7 @@ An application that enables users to make informed decisions to tackle ethical i
 
 ## ⭐ Other Projects
 
+- [<code>🔑🎵FastAPI User Authentification</code>](#-FastAPI-User-Authentification)
 - [<code>🎵 Music from Image Generator</code>](#-Music-from-Image-Generator)
 - [<code>🌐 Portfolio Website</code>](#-Portfolio-Website)
 - [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
@@ -43,6 +44,15 @@ An application that enables users to make informed decisions to tackle ethical i
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+## 🔑 FastAPI User Authentification
+
+[Go to the Repository](https://github.com/jyotsna-venkatesan/CloudFastAPI)- A user authentication system built using FastAPI, showcasing secure user registration, login functionality, and user management.
+
+#### Key Features:
+- 🚀 FastAPI Backend
+- 🗃️ SQLAlchemy ORM
+- 🔒 Password Hashing
 
  ## 🎵 Music from Image Generator
 
