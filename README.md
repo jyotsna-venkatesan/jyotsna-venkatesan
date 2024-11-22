@@ -36,6 +36,11 @@ A recipe platform that brings the familiar playlist experience to cooking - disc
 - 🌮 Cuisine filters & dietary preferences
 - 📊 Nutritional tracking
 
+  
+![home page (1)](https://github.com/user-attachments/assets/edc68686-476a-49d0-998f-c766372ce995)
+
+
+
 🎨 [Figma Prototype](https://www.figma.com/design/AJkkbjMsx7ShPjfLPkXi4p/Sporkify?node-id=0-1&t=oZTY6zLMq0vdyDvu-1)
 
 ### JustDecide 📜🏛️
