@@ -20,10 +20,25 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 #### Concepts:
 `OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control` `RESTful API Design` `Authentication & Security`
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
 <div align="left">
 
+### Sporkify 🎵🍳
+
+[![Sporkify](https://img.shields.io/badge/Sporkify-Recipe%20Discovery-FF9F1C?style=for-the-badge&logo=github)](your-repo-link-here)
+
+A recipe platform that brings the familiar playlist experience to cooking - discover, collect, and share recipes based on your mood, ingredients, and cooking vibe!
+
+#### Key Features:
+- 👥 Social recipe sharing
+- 🔍 Smart ingredient search
+- 🌮 Cuisine filters & dietary preferences
+- 📊 Nutritional tracking
+
+🎨 [Figma Prototype](https://www.figma.com/design/AJkkbjMsx7ShPjfLPkXi4p/Sporkify?node-id=0-1&t=oZTY6zLMq0vdyDvu-1)
+
+### JustDecide 📜🏛️
 [![JustDecide](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/Just-Decide)
 
 An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
