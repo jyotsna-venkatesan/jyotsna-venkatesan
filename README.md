@@ -26,7 +26,7 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 ### Sporkify 🎵🍳
 
-[![Sporkify](https://img.shields.io/badge/Sporkify-Recipe%20Discovery-FF9F1C?style=for-the-badge&logo=github)](your-repo-link-here)
+[![Sporkify](https://img.shields.io/badge/Sporkify-Recipe%20Discovery-FF9F1C?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/sporkify)
 
 A recipe platform that brings the familiar playlist experience to cooking - discover, collect, and share recipes based on your mood, ingredients, and cooking vibe!
 
