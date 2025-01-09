@@ -32,9 +32,9 @@ An app that helps users build their Arabic vocabulary by providing example sente
 </div>
 
 #### Key Features:
-🧠 AI-powered vocabulary enhancement
-📚 Example sentences, synonyms, and antonyms
-🔍 Examples from news articles (locally only)
+- 🧠 AI-powered vocabulary enhancement
+- 📚 Example sentences, synonyms, and antonyms
+- 🔍 Examples from news articles (locally only)
 
 ## ⭐ Other Projects
 
