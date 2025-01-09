@@ -24,41 +24,23 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 <div align="left">
 
-### Sporkify 🎵🍳
+### Vocabia 📖🧠
+[![Vocabia](https://img.shields.io/badge/Vocabia-Vocabulary%20Learning-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/Vocabia)
 
-https://web-production-6c51.up.railway.app/
-
-[![Sporkify](https://img.shields.io/badge/Sporkify-Recipe%20Discovery-FF9F1C?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/sporkify)
-
-A recipe platform that brings the familiar playlist experience to cooking - discover, collect, and share recipes based on your mood, ingredients, and cooking vibe!
-
-#### Key Features:
-- 👥 Social recipe sharing
-- 🔍 Smart ingredient search
-- 🌮 Cuisine filters & dietary preferences
-- 📊 Nutritional tracking
-
-  
-![home page (1)](https://github.com/user-attachments/assets/edc68686-476a-49d0-998f-c766372ce995)
-
-
-
-🎨 [Figma Prototype](https://www.figma.com/design/AJkkbjMsx7ShPjfLPkXi4p/Sporkify?node-id=0-1&t=oZTY6zLMq0vdyDvu-1)
-
-### JustDecide 📜🏛️
-[![JustDecide](https://img.shields.io/badge/JustDecide-Ethical%20Decision%20Making-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/Just-Decide)
-
-An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
+An app that helps users build their Arabic vocabulary by providing example sentences, synonyms, antonyms, and related words using natural language processing.
 
 </div>
 
 #### Key Features:
-- 🧠 AI-powered ethical analysis
-- 📚 Insights from renowned philosophers
+🧠 AI-powered vocabulary enhancement
+📚 Example sentences, synonyms, and antonyms
+🔍 Examples from news articles (locally only)
 
 ## ⭐ Other Projects
 
-- [<code>🔑🎵FastAPI User Authentification</code>](#-FastAPI-User-Authentification)
+- [<code>🌮 Sporkify</code>](#-Sporkify)
+- [<code>🏛️ JustDecide</code>](#-Just-Decide)
+- [<code>🔑 FastAPI User Authentification</code>](#-FastAPI-User-Authentification)
 - [<code>🎵 Music from Image Generator</code>](#-Music-from-Image-Generator)
 - [<code>🌐 Portfolio Website</code>](#-Portfolio-Website)
 - [<code>🚦️ Multi-thread Web Server</code>](#-Multi-thread-Web-Server)
@@ -66,6 +48,24 @@ An application that enables users to make informed decisions to tackle ethical i
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+## 🌮 Sporkify
+
+[Try out sporkify!](https://web-production-6c51.up.railway.app/)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/sporkify)- A recipe platform that brings the familiar playlist experience to cooking - discover, collect, and share recipes based on your mood, ingredients, and cooking vibe!
+
+#### Key Features:
+- 👥 Social recipe sharing (with password hashing)
+- 🔍 Smart ingredient search
+- 🌮 Cuisine filters & dietary preferences
+- 📊 Nutritional tracking
+
+## 🏛️ JustDecide
+[Go to the Repository](https://github.com/jyotsna-venkatesan/Just-Decide)- An application that enables users to make informed decisions to tackle ethical issues using the wisdom of the greatest philosophers of history.
+
+#### Key Features:
+- 🧠 AI-powered ethical analysis
+- 📚 Insights from renowned philosophers
 
 ## 🔑 FastAPI User Authentification
 
