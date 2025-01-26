@@ -24,20 +24,21 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 <div align="left">
 
-### Vocabia 📖🧠
-[![Vocabia](https://img.shields.io/badge/Vocabia-Vocabulary%20Learning-blueviolet?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/Vocabia)
+### CodeRoad 🩷💡
+[![CodeRoad](https://img.shields.io/badge/CodeRoad-Project%20Planning-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/CodeRoad)
 
-An app that helps users build their Arabic vocabulary by providing example sentences, synonyms, antonyms, and related words using natural language processing.
-
-</div>
+An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
 
 #### Key Features:
-- 🧠 AI-powered vocabulary enhancement
-- 📚 Example sentences, synonyms, and antonyms
-- 🔍 Examples from news articles (locally only)
+- 🤖 AI-powered project planning and structuring
+- 📈 Detailed phase breakdown with specific tasks
+- 🛠️ Tech stack and tool recommendations
+- ⏱️ Timeline estimates for each development phase
+- ⚠️ Potential challenges identification
 
 ## ⭐ Other Projects
 
+- [<code>📖 Vocabia</code>](#-Vocabia)
 - [<code>🌮 Sporkify</code>](#-Sporkify)
 - [<code>🏛️ JustDecide</code>](#-Just-Decide)
 - [<code>🔑 FastAPI User Authentification</code>](#-FastAPI-User-Authentification)
@@ -48,6 +49,16 @@ An app that helps users build their Arabic vocabulary by providing example sente
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+## 📖 Vocabia
+
+[Try out vocabia!](https://web-production-6c51.up.railway.app/)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/Vocabia)- An app that helps users build their Arabic vocabulary by providing example sentences, synonyms, antonyms, and related words using natural language processing.
+
+#### Key Features:
+- 🧠 AI-powered vocabulary enhancement
+- 📚 Example sentences, synonyms, and antonyms
+- 🔍 Examples from news articles (locally only)
 
 ## 🌮 Sporkify
 
