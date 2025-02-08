@@ -24,20 +24,19 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
 <div align="left">
 
-### CodeRoad 🩷💡
-[![CodeRoad](https://img.shields.io/badge/CodeRoad-Project%20Planning-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/CodeRoad)
+## 🩷 Lesuly 🩷
+[![CodeRoad](https://img.shields.io/badge/Lesuly-Lessons%20to%20Questions%20tool-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/lesuly)
 
-An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
+An AI-powered educational assistant that transforms lesson content into engaging, high-quality questions. It helps teachers save precious time by extracting content from PDFs, images, and text, then converting them into meaningful learning materials using advanced AI technology.
 
-#### Key Features:
-- 🤖 AI-powered project planning and structuring
-- 📈 Detailed phase breakdown with specific tasks
-- 🛠️ Tech stack and tool recommendations
-- ⏱️ Timeline estimates for each development phase
-- ⚠️ Potential challenges identification
+Key Features:
+🤖 AI-powered question generation
+📝 PDF and image text extraction
+📚 Instant conversion of lesson content into questions
 
 ## ⭐ Other Projects
 
+- [<code>💡 CodeRoad</code>](#-CodeRoad)
 - [<code>📖 Vocabia</code>](#-Vocabia)
 - [<code>🌮 Sporkify</code>](#-Sporkify)
 - [<code>🏛️ JustDecide</code>](#-Just-Decide)
@@ -49,6 +48,18 @@ An AI-powered project roadmap generator that transforms development ideas into s
 - [<code>🤝 Sample 'Join the Team' Page</code>](#-Sample-Join-the-Team-Page)
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
+
+## 💡 CodeRoad
+
+[Try out vocabia!](https://coderoad-ai.netlify.app/)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/CodeRoad)- An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
+
+#### Key Features:
+- 🤖 AI-powered project planning and structuring
+- 📈 Detailed phase breakdown with specific tasks
+- 🛠️ Tech stack and tool recommendations
+- ⏱️ Timeline estimates for each development phase
+- ⚠️ Potential challenges identification
 
 ## 📖 Vocabia
 
