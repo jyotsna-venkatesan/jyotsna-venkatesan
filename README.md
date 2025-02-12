@@ -25,7 +25,7 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 <div align="left">
 
 ## 🩷 Lesuly 🩷
-[![CodeRoad](https://img.shields.io/badge/Lesuly-Lessons%20to%20Questions%20tool-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/lesuly)
+[![Lesuly](https://img.shields.io/badge/Lesuly-Lessons%20to%20Questions%20tool-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/lesuly)
 
 An AI-powered educational assistant that transforms lesson content into engaging, high-quality questions. It helps teachers save precious time by extracting content from PDFs, images, and text, then converting them into meaningful learning materials using advanced AI technology.
 
@@ -51,8 +51,8 @@ Key Features:
 
 ## 💡 CodeRoad
 
-[Try out vocabia!](https://coderoad-ai.netlify.app/)
-[Go to the Repository](https://github.com/jyotsna-venkatesan/CodeRoad)- An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
+[Try out CodeRoad!](https://coderoad-ai.netlify.app/)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/Code-Road)- An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
 
 #### Key Features:
 - 🤖 AI-powered project planning and structuring
