@@ -20,18 +20,33 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 #### Concepts:
 `OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control` `RESTful API Design` `Authentication & Security`
 
-## 🚀 Most recent project
+## 🚀 Most recent projects
 
 <div align="left">
 
-## 🩷 Lesuly 🩷
+## blend 🤎
+[![Lesuly](https://img.shields.io/badge/blend-a%20coffee%20tale-834333?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/blend)
+
+Blend is an interactive project designed to educate users about the rich history and cultural significance of coffee. Through a hands-on, step-by-step coffee-making experience, users not only learn how to brew their perfect cup but also discover the fascinating stories behind one of the world's most beloved beverages.
+
+
+Key Features:
+🤎 Interactive Coffee-Making, 
+📚 Educational Content, 
+🎵 Immersive Audio
+
+
+
+<div align="left">
+
+## Lesuly 🩷
 [![Lesuly](https://img.shields.io/badge/Lesuly-Lessons%20to%20Questions%20tool-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/lesuly)
 
 An AI-powered educational assistant that transforms lesson content into engaging, high-quality questions. It helps teachers save precious time by extracting content from PDFs, images, and text, then converting them into meaningful learning materials using advanced AI technology.
 
 Key Features:
-🤖 AI-powered question generation
-📝 PDF and image text extraction
+🤖 AI-powered question generation, 
+📝 PDF and image text extraction, 
 📚 Instant conversion of lesson content into questions
 
 ## ⭐ Other Projects
