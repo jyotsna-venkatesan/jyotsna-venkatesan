@@ -37,18 +37,6 @@ Key Features:
 
 
 
-<div align="left">
-
-## Lesuly 🩷
-[![Lesuly](https://img.shields.io/badge/Lesuly-Lessons%20to%20Questions%20tool-AC50AE?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/lesuly)
-
-An AI-powered educational assistant that transforms lesson content into engaging, high-quality questions. It helps teachers save precious time by extracting content from PDFs, images, and text, then converting them into meaningful learning materials using advanced AI technology.
-
-Key Features:
-🤖 AI-powered question generation, 
-📝 PDF and image text extraction, 
-📚 Instant conversion of lesson content into questions
-
 ## ⭐ Other Projects
 
 - [<code>💡 CodeRoad</code>](#-CodeRoad)
