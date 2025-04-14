@@ -14,6 +14,8 @@ Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 ## decodr 💬
 [![decodr](https://img.shields.io/badge/decodr-LLM%20visualized-2a2a2a?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/decodr)
 
+https://decodr-llm.netlify.app/
+
 Decodr is an interactive project that walks users through the step-by-step process behind how large language models (LLMs) generate text. By inputting a simple sentence, users can explore how models tokenize words, convert them into embeddings, apply attention, and predict the next token—all visualized in an intuitive, browser-based interface.
 
 
@@ -24,7 +26,7 @@ Key Features:
 
 
 
-## ⭐ Other Projects
+## ⭐ Projects
 
 - [<code>🤎 blend</code>](#-blend)
 - [<code>💡 CodeRoad</code>](#-CodeRoad)
