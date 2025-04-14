@@ -6,39 +6,27 @@ I'm currently a Year-3 student at the Hong Kong Polytechnic University, majoring
 
 Contact me at https://www.linkedin.com/in/jyotsna-venkatesan-8684801b8/
 
-## 👩🏻‍💻 Tech Skills:
-
-#### Languages: 
-`Python` `Java` `C` `C++` `JavaScript` `HTML/CSS` `SQL` `R` `Dart` `Bash` `MIPS`
-
-#### Frameworks & Libraries: 
-`React` `Flutter` `Selenium` `Appium` `Playwright` `JUnit` `TestNG` `Node.js` `Express.js` `Bootstrap` `FastAPI` `SQLAlchemy` `Pydantic` 
-
-#### Tools & Technologies:
-`Git` `Docker` `Linux` `Figma` `Blender` `SolidWorks` `Uvicorn`
-
-#### Concepts:
-`OOP` `Data Structures` `Algorithms` `Discrete Mathematics` `Operating Systems` `System Programming` `Computer Organisation` `Computer Networking` `Agile Methodologies` `CI/CD` `Version Control` `RESTful API Design` `Authentication & Security`
 
 ## 🚀 Most recent projects
 
 <div align="left">
 
-## blend 🤎
-[![Lesuly](https://img.shields.io/badge/blend-a%20coffee%20tale-834333?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/blend)
+## decodr 💬
+[![decodr](https://img.shields.io/badge/decodr-LLM%20visualized-2a2a2a?style=for-the-badge&logo=github)](https://github.com/jyotsna-venkatesan/decodr)
 
-Blend is an interactive project designed to educate users about the rich history and cultural significance of coffee. Through a hands-on, step-by-step coffee-making experience, users not only learn how to brew their perfect cup but also discover the fascinating stories behind one of the world's most beloved beverages.
+Decodr is an interactive project that walks users through the step-by-step process behind how large language models (LLMs) generate text. By inputting a simple sentence, users can explore how models tokenize words, convert them into embeddings, apply attention, and predict the next token—all visualized in an intuitive, browser-based interface.
 
 
 Key Features:
-🤎 Interactive Coffee-Making, 
-📚 Educational Content, 
-🎵 Immersive Audio
+🧠 Tokenization & Embedding Visuals
+⚙️ Real-Time In-Browser Processing
+🌐 Powered by Transformers.js & Svelte
 
 
 
 ## ⭐ Other Projects
 
+- [<code>🤎 blend</code>](#-blend)
 - [<code>💡 CodeRoad</code>](#-CodeRoad)
 - [<code>📖 Vocabia</code>](#-Vocabia)
 - [<code>🌮 Sporkify</code>](#-Sporkify)
@@ -52,17 +40,20 @@ Key Features:
 - [<code>🥚 Egg Theory</code>](#-Egg-Theory)
 - [<code>📖 Unrealyty (Blog)</code>](#-Unrealyty-Blog)
 
+## blend 🤎
+[Try out blend!](https://coderoad-ai.netlify.app/)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/Code-Road)-
+
+
 ## 💡 CodeRoad
 
-[Try out CodeRoad!](https://coderoad-ai.netlify.app/)
-[Go to the Repository](https://github.com/jyotsna-venkatesan/Code-Road)- An AI-powered project roadmap generator that transforms development ideas into structured, phase-by-phase plans. It provides comprehensive technical guidance, tool recommendations, and timeline estimates using GPT-3.5 technology.
+[Try out CodeRoad!](https://blend-coffee.netlify.app/) (It's better on laptop! But it may take time for the images to load, so its best run locally HAHA)
+[Go to the Repository](https://github.com/jyotsna-venkatesan/blend)- An interactive project designed to educate users about the rich history and cultural significance of coffee. Through a hands-on, step-by-step coffee-making experience, users not only learn how to brew their perfect cup but also discover the fascinating stories behind one of the world's most beloved beverages.
 
 #### Key Features:
-- 🤖 AI-powered project planning and structuring
-- 📈 Detailed phase breakdown with specific tasks
-- 🛠️ Tech stack and tool recommendations
-- ⏱️ Timeline estimates for each development phase
-- ⚠️ Potential challenges identification
+🤎 Interactive Coffee-Making, 
+📚 Educational Content, 
+🎵 Immersive Audio
 
 ## 📖 Vocabia
 
