@@ -9,4 +9,8 @@ CS student @ PolyU with a fixation of creating websites I find meaningful. Mostl
 
 [![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite)](https://skillicons.dev)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
