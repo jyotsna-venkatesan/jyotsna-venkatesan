@@ -16,8 +16,6 @@ CS student @ PolyU with a fixation of creating websites I find meaningful. Mostl
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna-venkatesan&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
