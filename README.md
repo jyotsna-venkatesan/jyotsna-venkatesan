@@ -13,7 +13,6 @@ CS student @ PolyU with a fixation of creating websites I find meaningful. Mostl
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna-venkatesan&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsna-venkatesan&theme=radical&hide_border=false" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=jyotsna-venkatesan&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Stats" />
 </div>
 
