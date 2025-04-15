@@ -1,3 +1,6 @@
+<img src="banner.png" alt="banner">
+
+
 # Jyotsna Venkatesan
 
 **`Aspiring Software Developer`**
@@ -53,8 +56,8 @@ Key Features:
 [Go to the Repository](https://github.com/jyotsna-venkatesan/blend)- An interactive project designed to educate users about the rich history and cultural significance of coffee. Through a hands-on, step-by-step coffee-making experience, users not only learn how to brew their perfect cup but also discover the fascinating stories behind one of the world's most beloved beverages.
 
 #### Key Features:
-🤎 Interactive Coffee-Making, 
-📚 Educational Content, 
+🤎 Interactive Coffee-Making,
+📚 Educational Content,
 🎵 Immersive Audio
 
 ## 📖 Vocabia
@@ -104,7 +107,7 @@ Key Features:
 
  ## 🌐 Portfolio Website
 
-[Go to the Repository](https://github.com/jyotsna-venkatesan/my-portfolio) 
+[Go to the Repository](https://github.com/jyotsna-venkatesan/my-portfolio)
 [Check out my Portfolio](https://main--jyotsnav.netlify.app/)- This project is a personal portfolio website built using React, showcasing my skills, projects, and professional information.
 
 #### Key Features:
@@ -112,7 +115,7 @@ Key Features:
 - 🔧 Skills Section
 - 📞 Contact Information
 - 🚀 Easy Deployment and Responsive Design
- 
+
  ## 🚦️ Multi thread Web Server
 
 [Go to the Repository](https://github.com/jyotsna-venkatesan/Multi-thread-Web-Server) - This project implements a basic HTTP server using python that can handle GET requests, serve static files, and manage persistent connections via HTTP keep-alive functionality.
@@ -126,7 +129,7 @@ Key Features:
 ## 🌍 FundMap
 
 [Go to FundMap on Github!](https://github.com/jyotsna-venkatesan/FundMap) <br>
-[Check out FundMap](https://fundmap.live/) - A website that visualises the extent and impact of donations based on geographical factors. 
+[Check out FundMap](https://fundmap.live/) - A website that visualises the extent and impact of donations based on geographical factors.
 
 #### Key Features:
 - 🔎 Data Scraping from GoFundMe
@@ -152,7 +155,7 @@ Key Features:
 
 ## 📖 Unrealyty Blog
 
-[Check it out!](https://github.com/jyotsna-venkatesan/Unrealyty) - Blog on various topics of interest for High School students 
+[Check it out!](https://github.com/jyotsna-venkatesan/Unrealyty) - Blog on various topics of interest for High School students
 
 #### Key Features:
 - 🤖 Deep research into Human Centered Design
@@ -161,7 +164,7 @@ Key Features:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna-venkatesan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Other Posts: 
+## Other Posts:
 
 [Article] Challenging AI's perspective on Religious Pluralism: https://medium.com/@venkatesanjyotsna/challenging-ais-perspective-on-the-ethical-implications-of-religious-pluralism-c2a9cf1344bf
 
@@ -169,4 +172,3 @@ Key Features:
 
 
 ---
-
