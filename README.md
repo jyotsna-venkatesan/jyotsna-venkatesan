@@ -7,7 +7,7 @@ CS student @ PolyU with a fixation of creating websites I find meaningful. Mostl
 
 ## Tech Stack
 
-[![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite)](https://skillicons.dev)
+[![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite,swift)](https://skillicons.dev)
 
 ## Github Stats <3
 
