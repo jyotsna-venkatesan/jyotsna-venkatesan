@@ -1,4 +1,4 @@
-# Jyotsna Venkatesan 🔭
+# jyotsna venkatesan 🔭
 
 > currently treating GitHub like a playground, but maybe that's the way to go.
 
@@ -13,12 +13,13 @@ CS student @ PolyU with a fixation of creating websites I find meaningful. Mostl
 </div>
 
 
-#### Tech Stack
-
-[![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite,swift)](https://skillicons.dev)
-
-## Github Stats <3
+## github stats 
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna-venkatesan&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
+
+
+## tech stack
+
+[![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite,swift)](https://skillicons.dev)
