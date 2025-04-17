@@ -2,7 +2,7 @@
 
 > currently treating GitHub like a playground, but maybe that's the way to go
 
-CS student @ PolyU with a fixation of creating websites I find meaningful. Mostly building with React, Vue, and Svelte to bring ideas to life.
+CS student @ PolyU with a fixation of creating websites I find meaningful. Mostly building with React, Vue, and Svelte.
 
 <div align="center">
   <picture>
