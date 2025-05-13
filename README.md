@@ -4,8 +4,7 @@
 
 CS student @ PolyU with a fixation of creating websites I find meaningful. Mostly building with React, Vue, and Svelte.
 
-Right now, I’m working on a project called [**Yuvoa**](https://github.com/jyotsna-venkatesan/yuvoa) — a space for student teams to manage projects, track progress, and *actually* work well together.  
-It came from that familiar feeling of *“why is group work like this??”* 
+Right now, I’m working on a project called [**Yuvoa**](https://github.com/jyotsna-venkatesan/yuvoa) — a space for student teams to manage projects, track progress, and *actually* work well together.  It came from that familiar feeling of *“why is group work like this??”* 
 
 ---
 <div align="center">
