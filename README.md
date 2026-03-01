@@ -11,14 +11,6 @@
   </picture>
 </div>
 
-
-## github stats 
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna-venkatesan&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
-
 ## tech stack
 
 [![tech stack](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,tailwind,python,java,c,cpp,nodejs,fastapi,git,github,netlify,vscode,figma,postgresql,mongodb,sqlite,swift)](https://skillicons.dev)
